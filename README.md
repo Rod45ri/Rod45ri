@@ -58,15 +58,9 @@
 ---
 
 ## 📊 Estadísticas GitHub
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rod45ri&show_icons=true&theme=tokyonight)
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rod45ri&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rod45ri&layout=compact&theme=tokyonight"/>
-
-</div>
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rod45ri&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Contacto
