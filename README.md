@@ -13,5 +13,3 @@
 ```txt
 📚 Estudiante de programación
 🚀 Aprendiendo desarrollo web y bases de datos
-🧠 Interesado en compiladores y ensamblador
-🎯 Objetivo: ser desarrollador Full Stack
