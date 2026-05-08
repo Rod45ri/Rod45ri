@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-💻 Estudiante de Ingeniería en Sistemas Computacionales | Back-End Developer
+💻 Estudiante de Ingeniería en Sistemas Computacionales | full-Stack Developer
 </h3>
 
 <p align="center">
