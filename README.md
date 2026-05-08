@@ -1,23 +1,17 @@
-<h1>👋 ¡Hola! Soy Rodrigo Rivera</h1>
+<div align="center">
 
-<h2>💻 Sobre mí</h2>
+# 👋 ¡Hola! Soy Rodrigo Rivera
 
-<p>
-Soy estudiante y desarrollador apasionado por la programación,
-las bases de datos y el desarrollo web.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desarrollador+en+aprendizaje;Amante+de+la+programación;Python+%7C+MySQL+%7C+HTML+%7C+CSS" />
 
-<ul>
-    <li>🌱 Actualmente aprendiendo: MySQL, MongoDB y Ensamblador</li>
-    <li>🚀 Mejorando como programador</li>
-</ul>
+</div>
 
-<h2>🛠️ Tecnologías</h2>
+---
 
-<ul>
-    <li>Python</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>MySQL</li>
-</ul>
+## 💻 Sobre mí
+
+```txt
+📚 Estudiante de programación
+🚀 Aprendiendo desarrollo web y bases de datos
+🧠 Interesado en compiladores y ensamblador
+🎯 Objetivo: ser desarrollador Full Stack
